@@ -1,6 +1,6 @@
 {
   "name": "gsap-react-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of GSAP react hooks",
   "type": "module",
   "source": "src/index.ts",
